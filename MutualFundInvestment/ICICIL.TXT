@@ -1,0 +1,13 @@
+		welcome to icici mutual fund!!
+1.icici childrens gift fund:-
+			eg-investment amt=240000  rs
+			    period=10 years
+			    returns=950000 rs
+2.icici equity fund:-
+			eg-investment amt=240000 rs
+			    period=10 years
+			    returns=1000000 rs
+3.icici dept fund:-
+			eg-investment amt=240000 rs
+			    period=10 years
+			    returns=8520000 rs

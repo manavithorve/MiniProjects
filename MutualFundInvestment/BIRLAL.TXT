@@ -1,0 +1,13 @@
+		welcome to birla mutual fund!!
+1.birla childrens gift fund:-
+			eg-investment amt=240000  rs
+			    period=10 years
+			    returns=930000 rs
+2.birla equity fund:-
+			eg-investment amt=240000 rs
+			    period=10 years
+			    returns=1010000 rs
+3.birla dept fund:-
+			eg-investment amt=240000 rs
+			    period=10 years
+			    returns=8720000 rs

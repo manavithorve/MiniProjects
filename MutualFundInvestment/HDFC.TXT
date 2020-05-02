@@ -1,0 +1,23 @@
+		    Welcome to hdfc mutual fund!!
+these are the following schemes:-
+1.hdfc childrens gift fund, sip method:
+			    eg.-
+			    investment per month:-2000rs
+			    interest=15%
+			    payment period=10years
+			    total investment=240000
+			    returns=550000
+2.hdfc equity fund returns method:
+			    eg.-through sip:-
+			    investment per month:-2000rs
+			    interest=18%
+			    payment period=10years
+			    total investment=240000
+			    returns=600000
+3.hdfc dept fund returns method:
+			    eg.-through sip:-
+			    investment per month:-2000rs
+			    interest=10%
+			    payment period=10years
+			    total investment=240000
+			    returns=450000

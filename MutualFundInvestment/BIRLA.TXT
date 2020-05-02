@@ -1,0 +1,23 @@
+		    Welcome to birla mutual fund!!
+these are the following schemes:-
+1.birla childrens gift fund, sip method:
+			    eg.-
+			    investment per month:-2000rs
+			    interest=14%
+			    payment period=10years
+			    total investment=240000
+			    returns=520000
+2.birla equity fund returns method:
+			    eg.-through sip:-
+			    investment per month:-2000rs
+			    interest=18%
+			    payment period=10years
+			    total investment=240000
+			    returns=570000
+3.birla dept fund returns method:
+			    eg.-through sip:-
+			    investment per month:-2000rs
+			    interest=10%
+			    payment period=10years
+			    total investment=240000
+			    returns=410000

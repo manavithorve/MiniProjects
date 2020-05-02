@@ -1,0 +1,23 @@
+		    Welcome to franklin mutual fund!!
+these are the following schemes:-
+1.frankilin childrens gift fund, sip method:
+			    eg.-
+			    investment per month:-2000rs
+			    interest=14%
+			    payment period=10years
+			    total investment=240000
+			    returns=520000
+2.franklin mnc fund returns method:
+			    eg.-through sip:-
+			    investment per month:-2000rs
+			    interest=16%
+			    payment period=10years
+			    total investment=240000
+			    returns=490000
+3.franklin dept fund returns method:
+			    eg.-through sip:-
+			    investment per month:-2000rs
+			    interest=9%
+			    payment period=10years
+			    total investment=240000
+			    returns=380000
