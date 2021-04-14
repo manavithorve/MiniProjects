@@ -1,0 +1,68 @@
+body{
+  background-color: #9455e6;
+  color: #f1f0f0;
+  text-align: center;
+  font-family: "Montserrat",sans-serif;
+}
+
+.title-heading{
+  font-weight: bold;
+}
+
+.dataformElements{
+  align-self: center;
+  margin: 20px;
+}
+
+.dataform-btn{
+  margin-top: 20px;
+}
+
+#header {
+   padding: 30px;
+   position:fixed;
+   font-family: "Montserrat";
+   font-weight: 900;
+   text-align: left;
+   top:0;
+   width:100%;
+   background-color: #000000;
+}
+
+#dataform{
+    margin-top: 150px;
+}
+
+#userdata{
+  margin-left: 35%;
+  margin-right: 35%;
+}
+
+#footer {
+  position: fixed;
+  padding: 10px 10px 0px 10px;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  color:#bebabf;
+  background-color: #000000;
+}
+
+@media screen and (max-width: 820px)
+{
+
+  #header {
+     padding: 30px;
+     position:absolute;
+     font-family: "Montserrat";
+     font-weight: 900;
+     text-align: center;
+     top:0;
+     width:100%;
+     background-color: #000000;
+  }
+  #userdata{
+    margin: inherit;
+    margin-top: auto;
+  }
+}
